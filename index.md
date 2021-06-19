@@ -11,7 +11,7 @@ title: Max Clevenson
 
 &nbsp;
 
-❤️‍🔥&nbsp;&nbsp;&nbsp;&nbsp;PREVIOUSLY...
+❤️‍🔥&nbsp;&nbsp;&nbsp;&nbsp;PREVIOUSLY . . .
 
 > Senior UX @ [Amazon](https://advertising.amazon.com)
 > 
