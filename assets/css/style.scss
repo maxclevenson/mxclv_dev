@@ -21,17 +21,17 @@ blockquote {
   }
 
 h1 {
-  color: #222222;
+  color: #ffffff;
   font-weight: 400;
-  text-shadow: 1px 1px 0px #eb452b, 
-               2px 2px 0px #efa032, 
-               3px 3px 0px #46b59b, 
-               4px 4px 0px #017e7f, 
-               5px 5px 0px #052939, 
-               6px 6px 0px #e1e1e1, 
-               7px 7px 0px #e1e1e1, 
-               8px 8px 0px #e1e1e1, 
-               9px 9px 0px #e1e1e1;
+  text-shadow: 0px 0px 0 rgb(242,242,242),
+             0px 1px 0 rgb(229,229,229),
+             0px 2px 0 rgb(216,216,216),
+             0px 3px 0 rgb(203,203,203),
+             0px 4px 0 rgb(190,190,190),
+             0px 5px  0 rgb(177,177,177),
+             0px 6px 5px rgba(0,0,0,0),
+             0px 6px 1px rgba(0,0,0,0.5),
+             0px 0px 5px rgba(0,0,0,.2);
   }
 
 body {
