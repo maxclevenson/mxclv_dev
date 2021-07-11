@@ -21,8 +21,8 @@ title: Max Clevenson
 
 📝&nbsp;&nbsp;&nbsp;&nbsp;PUBLISHING . . .
 
-[Letters and feelings, published 4 u](https://www.amazon.com/dp/B08YDP9XLK/)
-
+>[Letters and feelings, published 4 u](https://www.amazon.com/dp/B08YDP9XLK/)
+>
 > #4,751 in Dictionaries (Books)
 >
 > #7,258 in Emotional Self Help
