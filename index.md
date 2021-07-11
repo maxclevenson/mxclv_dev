@@ -16,3 +16,11 @@ title: Max Clevenson
 > Senior UX @ [Amazon](https://advertising.amazon.com)
 > 
 > 75+ apps @ [WillowTree](https://willowtreeapps.com/portfolio)
+
+📝&nbsp;&nbsp;&nbsp;&nbsp;PUBLISHING . . .
+
+[Letters and feelings, published 4 u](https://www.amazon.com/dp/B08YDP9XLK/)
+
+> #4,751 in Dictionaries (Books)
+>
+> #7,258 in Emotional Self Help
